@@ -1,0 +1,40 @@
+body{
+    width:100vw;
+    height: 100vh;
+    margin: 0;
+}
+.row{
+    background-color: aquamarine;
+
+}
+#first{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.item-group{
+    display: flex;
+    border: 1px solid black;
+    
+    margin: 2px  2px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    
+}
+h2{
+    background-color:aquamarine ;
+}
+fieldset{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 4px;
+    
+}
+
+button{
+    float: right;
+    background-color: red ;
+    border: none;
+    
+}
